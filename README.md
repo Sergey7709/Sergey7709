@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Меня зовут Сергей, я специализируюсь на создании производительных и адаптивных веб-приложений с использованием React, Redux, TypeScript. Cовершенствую свои умения и изучаю новые технологии. В свободное время читаю IT-литературу ( "Грокаем алгоритмы" и "Грокаем функциональное мышление"), решаю задачи на Codewars. Открыт для ваших предложений.
+
+My name is Sergey, I specialize in creating productive and adaptive web applications using React, Redux, TypeScript. I improve my skills and study new technologies. In my free time I read IT literature ("Grokking Algorithms" and "Grokking Simplicity"), solve problems on Codewars. Open for your suggestions.
+
+
 <!--
 **Sergey7709/Sergey7709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
