@@ -4,23 +4,33 @@
 
 My name is Sergey, I specialize in creating productive and adaptive web applications. I improve my skills and study new technologies. In my free time I read IT literature ("Grokking Algorithms" and "Grokking Simplicity"), solve problems on Codewars. Open for your suggestions.
 
+<table>
+  <tr>
+    <td>
+      <h3>💻 GitHub Profile Stats</h3>
+       <p>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img title="💻 Get profile stats for your GitHub profile at git.io/github-readme-stats" alt="Sergey7709's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sergey7709&show_icons=true&theme=tokyonight&height="192px"/>
+        </a>
+          </p>
+    </td>
+    <td>
+      <h3>🏆 Top Languages</h3>
+          <p>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+         <img title="🏆 Get top languages stats for your GitHub profile at git.io/github-readme-stats" alt="Sergey7709's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergey7709&layout=compact&theme=tokyonight&height="192px"/>
+        </a>
+       </p>
+    </td>
+<td>
 <h3>🔥 Streak Stats</h3>
-  <p>
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sergey7709's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=Sergey7709&theme=monokai-metallian&hide_border=true"/>
+      <p>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sergey7709's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=Sergey7709&theme=tokyonight&border=true&height="192px""/>
+    </a>
      </p>
-</h3>
+   </td>
+  </tr>
+</table>
 
-<!--
-**Sergey7709/Sergey7709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
