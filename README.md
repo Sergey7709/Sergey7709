@@ -38,7 +38,7 @@
   </tr>
 </table>
 
-# Мой стек технологий / My tech stack: 
+# ⚙️ Мой стек технологий / My tech stack: 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue)
 ![React](https://img.shields.io/badge/React-blue)
