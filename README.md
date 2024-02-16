@@ -4,6 +4,11 @@
 
 My name is Sergey, I specialize in creating productive and adaptive web applications. I improve my skills and study new technologies. In my free time I read IT literature ("Grokking Algorithms" and "Grokking Simplicity"), solve problems on Codewars. Open for your suggestions.
 
+<h3>🔥 Streak Stats</h3>
+  <p>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sergey7709's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=Sergey7709&theme=monokai-metallian&hide_border=true"/>
+     </p>
+</h3>
 
 <!--
 **Sergey7709/Sergey7709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
