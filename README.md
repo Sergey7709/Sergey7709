@@ -5,9 +5,9 @@
 
 ## <span style="font-family: Verdana; color: green; text-align: left;">Обо мне</span>
 
-<span style="font-family: Times New Roman; color: black; text-align: justify;">Я специализируюсь на создании производительных и адаптивных веб-приложений. Постоянно совершенствую свои умения и изучаю новые технологии. В свободное время я люблю читать IT-литературу, особенно про алгоритмы и функциональное программирование. Я также решаю задачи на Codewars. Я открыт для интересных предложений и сотрудничества.</span>
+<span style="font-family: Times New Roman; color: black; text-align: justify;">Я специализируюсь на создании производительных и адаптивных веб-приложений. Постоянно совершенствую свои умения и изучаю новые технологии. В свободное время я люблю читать IT-литературу, особенно про алгоритмы и функциональное программирование. Также решаю задачи на Codewars. Открыт для предложений и сотрудничества.</span>
 
-<span style="font-family: Times New Roman; color: black; text-align: justify;">I specialize in building performant and adaptive web applications. I am constantly improving my skills and learning new technologies. In my free time I like to read IT literature, especially about algorithms and functional programming. I also solve problems on Codewars. I am open for interesting suggestions and cooperation.</span>
+<span style="font-family: Times New Roman; color: black; text-align: justify;">I specialize in building performant and adaptive web applications. I am constantly improving my skills and learning new technologies. In my free time I like to read IT literature, especially about algorithms and functional programming. I also solve problems on Codewars. I am open for suggestions and cooperation.</span>
 
 <table>
   <tr>
