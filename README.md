@@ -51,6 +51,7 @@
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785)
 ![Zod](https://img.shields.io/badge/Zod-4285F4)
 ![Yup](https://img.shields.io/badge/Yup-0A0A0A)
+![Ionic Framework](https://img.shields.io/badge/Ionic_Framework-3880FF)
 ![Mantine UI](https://img.shields.io/badge/Mantine_UI-38B2AC)
 ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE)
 ![Material UI](https://img.shields.io/badge/Material_UI-0081CB)
