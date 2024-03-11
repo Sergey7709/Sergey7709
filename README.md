@@ -7,7 +7,7 @@
 
 <span style="font-family: Times New Roman; color: black; text-align: justify;">Я специализируюсь на создании производительных и адаптивных веб-приложений с использованием React, Redux, TypeScript.  Энтузиаст сложных задач и продуктивной работы)) Ценю качественный код, коллег, командную работу и оптимизированные рабочие процессы. Cовершенствую свои умения и изучаю новые технологии, в частности Next.js и FSD. В свободное время читаю IT-литературу ( "Грокаем алгоритмы" и "Грокаем функциональное мышление"), решаю задачи на Codewars. Открыт для предложений и сотрудничества.</span>
 
-<span style="font-family: Times New Roman; color: black; text-align: justify;">I specialize in building performant and adaptive web applications using React, Redux, TypeScript. Enthusiastic about challenging tasks and productive work)))) I value quality code, colleagues, teamwork and optimized workflows. I improve my skills and learn new technologies, in particular Next.js and FSD. In my free time I read IT literature ("Grokking Algorithms" and "Grokking Functional Thinking"), solve problems on Codewars. Open for suggestions and cooperation.</span>
+<span style="font-family: Times New Roman; color: black; text-align: justify;">I specialize in building performant and adaptive web applications using React, Redux, TypeScript. Enthusiastic about challenging tasks and productive work)) I value quality code, colleagues, teamwork and optimized workflows. I improve my skills and learn new technologies, in particular Next.js and FSD. In my free time I read IT literature ("Grokking Algorithms" and "Grokking Functional Thinking"), solve problems on Codewars. Open for suggestions and cooperation.</span>
 
 <table>
   <tr>
