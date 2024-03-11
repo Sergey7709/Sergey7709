@@ -5,7 +5,7 @@
 
 ## <span style="font-family: Verdana; color: green; text-align: left;">Обо мне</span>
 
-<span style="font-family: Times New Roman; color: black; text-align: justify;">Я специализируюсь на создании производительных и адаптивных веб-приложений с использованием React, Redux, TypeScript.  Энтузиаст сложных задач и активной работы)) Ценю качественный код, командную работу и оптимизированные рабочие процессы. Cовершенствую свои умения и изучаю новые технологии, в частности Next.js и FSD. В свободное время читаю IT-литературу ( "Грокаем алгоритмы" и "Грокаем функциональное мышление"), решаю задачи на Codewars. Открыт для предложений и сотрудничества.</span>
+<span style="font-family: Times New Roman; color: black; text-align: justify;">Я специализируюсь на создании производительных и адаптивных веб-приложений с использованием React, Redux, TypeScript.  Энтузиаст сложных задач и продуктивной работы)) Ценю качественный код, командную работу и оптимизированные рабочие процессы. Cовершенствую свои умения и изучаю новые технологии, в частности Next.js и FSD. В свободное время читаю IT-литературу ( "Грокаем алгоритмы" и "Грокаем функциональное мышление"), решаю задачи на Codewars. Открыт для предложений и сотрудничества.</span>
 
 <span style="font-family: Times New Roman; color: black; text-align: justify;">I specialize in building performant and adaptive web applications. I am constantly improving my skills and learning new technologies. In my free time I like to read IT literature, especially about algorithms and functional programming. I also solve problems on Codewars. I am open for suggestions and cooperation.</span>
 
