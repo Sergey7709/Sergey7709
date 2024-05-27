@@ -5,9 +5,11 @@
 
 ## <span style="font-family: Verdana; color: green; text-align: left;">Обо мне</span>
 
-<span style="font-family: Times New Roman; color: black; text-align: justify;">Я специализируюсь на создании производительных и адаптивных веб-приложений с использованием React, Redux, TypeScript. Ценю качественный код, коллег, командную работу и оптимизированные рабочие процессы. Cовершенствую свои умения и изучаю новые технологии, в частности Next.js и FSD. В свободное время читаю IT-литературу ( "Грокаем алгоритмы" и "Грокаем функциональное мышление"). Открыт для предложений и сотрудничества.</span>
-
-<span style="font-family: Times New Roman; color: black; text-align: justify;">I specialize in building performant and adaptive web applications using React, Redux, TypeScript. Enthusiastic about challenging tasks and productive work)) I value quality code, colleagues, teamwork and optimized workflows. I improve my skills and learn new technologies, in particular Next.js and FSD. In my free time I read IT literature ("Grokking Algorithms" and "Grokking Functional Thinking"). Open for suggestions and cooperation.</span>
+<span style="font-family: Times New Roman; color: black; text-align: justify;">Занимаюсь разработкой кроссплатформенных приложений на стеке React, TypeScript.
+Моя цель — не только создать работающий функционал, но и обеспечить его производительность и легкость в поддержке с возможность дальнейшего расширения.
+Ценю коллективную работу и сплоченность в команде. Я считаю, что обмен знаниями и опытом с коллегами играет ключевую роль в достижении высоких результатов.
+Постоянно совершенствуюсь, углубляясь в изучение различных подходов и инструментов
+во фронтенде, чтобы эффективно и быстро решать задачи бизнеса.</span>
 
 <table>
   <tr>
